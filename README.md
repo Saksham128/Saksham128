@@ -45,7 +45,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<h2>Stats: </h2>
+<h2>My GitHub Stats: </h2>
 
 <br>
 
