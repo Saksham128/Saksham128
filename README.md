@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m also a member of our __CS department's R&D__ Team.
 - Currently working on the project of __Virtualization and Cyber Security__.
 - Fun-Fact: I was a Army aspirant before becoming a software engineer.
-- How to reach me: __sbadoni@doonuniversity.ac.in__.
+- How to reach me: __sbadoni.cs@doonuniversity.ac.in__.
 
 ---
 
