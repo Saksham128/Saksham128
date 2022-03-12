@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m currently pursuing my B.Sc. degree in Computer Science form __[Doon University](https://doonuniversity.ac.in/)__.
 - I’m currently learning __ReactJS__, __PHP__, & __MongoDB__.
-- Currently working on the project of __Virtualization and Cyber Security__.
 - Fun-Fact: I was a Army aspirant before becoming a software engineer.
 - How to reach me: __sbadoni.cs@doonuniversity.ac.in__.
 
