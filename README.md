@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 <h2>About Me:</h2>
 
-- I’m currently pursuing my B.Sc. degree in Computer Science form __[Doon University](https://doonuniversity.ac.in/)__.
+- I’m currently pursuing my M.Sc. degree in Computer Science form __[Doon University](https://doonuniversity.ac.in/)__.
 - I’m currently learning __ReactJS__, __PHP__, & __MongoDB__.
 - How to reach me: __sbadoni.cs@doonuniversity.ac.in__.
 
