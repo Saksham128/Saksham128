@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 - How to reach me: __sbadoni.cs@doonuniversity.ac.in__.
 
 ---
-
+<!--
 <h2>Languages and Tools:</h2>
 
 <p>
@@ -52,3 +52,4 @@ You can use the website to generate badges: https://shields.io/
 
 
 -----
+-->
